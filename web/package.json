@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "Kotaro Hirayama <khirayama@linecorp.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.3"
+  }
 }
